@@ -1,6 +1,6 @@
 ## Sejam bem vindos ao meu perfil!
 
-![Gif O Gato Mago!] (https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
+![Gif O Gato Mago!] (https://media1.tenor.com/m/h0ZZS9gd2jUAAAAd/gato-gato-gordo.gif)
 
 :wolf: Me chamo André e estou aprendendo a personalizar minha pagina principal do GitHub!
 
