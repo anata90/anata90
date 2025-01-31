@@ -11,10 +11,18 @@ Estou ampliando meus conhecimentos para migrar para área de desenvolvimento. <b
 ## Minhas Tecnologias
 
 <ul>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px"/>
+
 </ul>
+
+------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **anata90/anata90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
