@@ -20,7 +20,7 @@ Estou ampliando meus conhecimentos para migrar para área de desenvolvimento. <b
 
 ------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anata90 GitHub stats](https://github-readme-stats.vercel.app/api?username=anata90&show_icons=true&theme=tokyonight)
 
 
 
