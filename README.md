@@ -1,6 +1,6 @@
 ## Sejam bem vindos ao meu perfil!
 
---------
+
 
 :wolf: Me chamo André e estou aprendendo a personalizar minha pagina principal do GitHub! <br>
 
