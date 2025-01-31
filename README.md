@@ -1,10 +1,6 @@
 ## Sejam bem vindos ao meu perfil!
 
-![Gif O Gato Mago!] https://media.tenor.com/NbbJdo2sdIAAAAAM/cat-wizard.gif
-
 :wolf: Me chamo André e estou aprendendo a personalizar minha pagina principal do GitHub!
-
-
 
 <!--
 **anata90/anata90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
